@@ -6,4 +6,4 @@ def Suma_grupo(start, nums, target):
             return ____
     return Suma_grupo(start + ___, nums, target) or Suma_grupo(start+___, nums, target-____)
 
-print(Suma_grupo(0,[2, 4, 8],10))
+print(Suma_grupo(0,[5, 1, 3],6))
